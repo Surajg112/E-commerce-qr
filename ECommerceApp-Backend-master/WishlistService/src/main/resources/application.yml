@@ -1,0 +1,13 @@
+spring:
+  # Application Name
+  application:
+    name: WishListService
+
+  # Currently Activated Profile
+  profiles:
+    active: test
+
+  # Devtools Auto Reload
+  devtools:
+    restart:
+      enabled: true
