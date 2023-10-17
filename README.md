@@ -10,7 +10,7 @@ ZipKin Server
 
 Create new folder- Ex- RetailEcommerce
 
-Steps To Clone https://github.com/jadhavkirangreatlearning/FullStackRetail.git Repository To Local
+
 
 Steps To Start Projects
 Open all projects in IntelliJ Idea
